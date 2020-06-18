@@ -1,0 +1,24 @@
+* {
+	background-color: lime;
+	padding:0px;
+	font-size: 10vw;
+	color: red;
+}
+h1 {
+
+	background-color: yellow;
+
+}
+a{
+	text-decoration: none;
+	background-color: pink;
+
+}
+a:hover {
+	background-color: black;
+	color: white;
+}
+p {
+	color: black;
+	font-size: 5vw;
+}
